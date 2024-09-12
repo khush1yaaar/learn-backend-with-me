@@ -1,3 +1,5 @@
+//--------------------------- INSERT THIS AND PRACTICE ON DUMMY DATABASE --------------------------------------------------
+
 db.inventory.insertMany( [
     { item: "canvas", qty: 100, size: { h: 28, w: 35.5, uom: "cm" }, status: "A" },
     { item: "journal", qty: 25, size: { h: 14, w: 21, uom: "cm" }, status: "A" },
